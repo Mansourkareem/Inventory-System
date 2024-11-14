@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 #قراءة الملف 
-file_path = 'streamlit_app.py/KSA.xlsx'
+file_path = 'Inventory-System/streamlit_app.py/KSA.xlsx'
 
 
 # التحقق من وجود DataFrame في session_state
