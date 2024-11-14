@@ -1,8 +1,7 @@
 import streamlit as st
 import pandas as pd
-pip freeze > requirements.txt
 #قراءة الملف 
-file_path = 'KSA.xlsx'
+# file_path = 'KSA.xlsx'
 
 
 # التحقق من وجود DataFrame في session_state
