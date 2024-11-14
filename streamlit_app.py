@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 #قراءة الملف 
-file_path = 'KSA.xlsx'
+file_path = 'C:/Users/manso/OneDrive/سطح المكتب/inventory system/KSA.xlsx'
 
 
 # التحقق من وجود DataFrame في session_state
