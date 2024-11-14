@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-
+pip freeze > requirements.txt
 #قراءة الملف 
 file_path = 'KSA.xlsx'
 
